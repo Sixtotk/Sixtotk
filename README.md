@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Sixto Tulio Mendoza García</h1>
-<h3 align="center">full stack developer de Venezuela 🇻🇪</h3>
+<h3 align="center">full stack developer de Venezuela</h3>
 
 <h3 align="left">Contáctame:</h3>
 <p align="left">
